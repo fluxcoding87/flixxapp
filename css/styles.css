@@ -272,3 +272,8 @@ section h2{
 .error {
   background: red;
 }
+.media-class{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+}
